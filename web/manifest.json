@@ -1,6 +1,6 @@
 {
-    "name": "back_end",
-    "short_name": "back_end",
+    "name": "emu_back",
+    "short_name": "emu_back",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
